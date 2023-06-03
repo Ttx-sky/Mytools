@@ -1,0 +1,160 @@
+{
+  "main": {
+    "Crew": {
+      "Doctor": {
+          "Save lives": {
+            "Use": 3,
+            "CD": 30
+          }
+        },
+      "Sheriff":
+        {
+          "Killing people": {
+            "Use": 3,
+            "CD": 20
+          }
+        },
+      "Veterans": {
+          "Killing people": {
+            "Use": 3,
+            "CD": 25
+          }
+        },
+      "Crew": {
+          "null": {
+            "Use": null,
+            "CD": null
+          }
+        },
+      "One-sided": {
+          "Guess": {
+            "Use": 10,
+            "CD": null
+          }
+        },
+      "Justice":{
+          "Killing people": {
+            "Use": 3,
+            "CD": 20
+          }
+        },
+      "Project":{
+          "Use the pipe": {
+            "Use": null,
+            "CD": 15
+          },
+          "Repair": {
+            "Use": 3,
+            "CD": 15
+          }
+        }
+    },
+    "The Mole": {
+      "The Mole":
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          },
+          "Killing people": {
+            "Use": 10,
+            "CD": 25
+          }
+        },
+      "Assassin": [
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          }
+        },
+        {
+          "Guess": {
+            "Use": 10,
+            "CD": null
+          }
+        },
+        {
+          "Killing people": {
+            "Use": 10,
+            "CD": 25
+          }
+        }
+      ],
+      "Professional hit man": [
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          }
+        },
+        {
+          "Killing people": {
+            "Use": 10,
+            "CD": 20
+          }
+        }
+      ],
+      "Chameleon":
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          },
+          "Invisibility": {
+            "Use": 3,
+            "CD": 20
+          }
+        },
+          "Killing people": {
+            "Use": 10,
+            "CD": 25
+          }
+        },
+    "Neutral": {
+      "Big Eater":
+        {
+          "Cannibalism": {
+            "Use": 10,
+            "CD": 35
+          }
+        },
+      "Flip-flops":
+        {
+          "Killing people": {
+            "Use": 1,
+            "CD": 20
+          }
+        },
+      "Survivors":
+        {
+          "Shields up": {
+            "Use": 3,
+            "CD": 5
+          }
+        },
+      "The Devil":
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          },
+          "Recruitment": {
+            "Use": 1,
+            "CD": 10
+          }
+        },
+          "Killing people": {
+            "Use": 10,
+            "CD": 25
+          }
+        },
+      "Clowns":
+        {
+          "Use the pipe": {
+            "Use": null,
+            "CD": null
+          }
+        }
+    }
+}
