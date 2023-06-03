@@ -1,0 +1,26 @@
+2023-06-01 21:01:07,085 [ORDER.py] [<module>] [INFO] [55] Requirement already satisfied: pip in c:\users\maply\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (23.1.2)
+
+2023-06-01 21:01:20,060 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:20,496 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:22,131 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:23,142 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:23,905 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:24,526 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:25,225 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:01:44,828 [ORDER.py] [<module>] [INFO] [55] Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: portalocker in c:\users\maply\appdata\local\programs\python\python311\lib\site-packages (2.7.0)
+Requirement already satisfied: pywin32>=226 in c:\users\maply\appdata\local\programs\python\python311\lib\site-packages (from portalocker) (305)
+
+2023-06-01 21:01:47,245 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:02:00,948 [ORDER.py] [<module>] [INFO] [55] Requirement already satisfied: Django in c:\users\maply\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (2.0)
+Requirement already satisfied: pytz in c:\users\maply\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from Django) (2022.7)
+
+2023-06-01 21:02:03,299 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:02:42,662 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:03:00,567 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:03:02,410 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:03:31,468 [ORDER.py] [<module>] [INFO] [55] [0m
+2023-06-01 21:03:35,922 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:04:01,499 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:04:06,991 [ORDER.py] [<module>] [INFO] [55] 
+2023-06-01 21:04:08,186 [ORDER.py] [<module>] [INFO] [55] 
